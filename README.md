@@ -1,2 +1,2 @@
-# 6-todo-app-version-three
+# todo-app
    Simple ToDo App A minimalist ToDo application that helps users stay organized by allowing them to quickly add and delete tasks. Designed for speed and simplicity, this app is ideal for practicing core React concepts and UI layout fundamentals.  Features - Add new tasks instantly - Delete tasks with a single click - Clean and responsive UI - Lightweight and beginner-friendly codebase  Tech Stack - Frontend: React - Styling: Bootstrap / CSS (customizable) - State Management: useState .
